@@ -1,4 +1,4 @@
-export const URL = "https://catgram.ddns.net/";
+export const URL = "https://catgram.ddns.net";
 
 export const colorsList = [
   "#FFE4C4",
